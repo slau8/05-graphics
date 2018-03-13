@@ -1,0 +1,21 @@
+circle
+250 250 0 200
+line
+250 50 0 250 450 0
+hermite
+360 417 360 83 300 -167 500 0
+hermite
+140 417 140 83 -300 -167 -500 0
+bezier
+52 279 100 50 400 50 448 279
+ident
+move
+-250 -250 0
+rotate
+z 45
+move
+250 250 0
+apply
+display
+save
+ball.jpg
